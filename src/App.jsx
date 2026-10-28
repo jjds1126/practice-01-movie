@@ -9,7 +9,7 @@ function App() {
     const [genre, setGenre] = useState("드라마");
     const [rating, setRating] = useState(5);
 
-    // 추가
+    // 추가.
     const addMovie = () => {
         if (title.trim() === "") {
             return;
