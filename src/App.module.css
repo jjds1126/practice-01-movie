@@ -2,7 +2,7 @@
 .page {
     min-height: 100vh;
     padding: 50px 20px;
-    background-color: #f5f3fa;
+    background-color: #e0dddd;
     box-sizing: border-box;
     font-family: "Noto Sans KR", Arial, sans-serif;
 }
@@ -11,7 +11,7 @@
     max-width: 900px;
     margin: 0 auto;
     padding: 35px;
-    background-color: white;
+    background-color: #dcdada;
     border-radius: 18px;
     box-shadow: 0 10px 30px rgba(0, 0, 0, 0.08);
     box-sizing: border-box;
@@ -37,7 +37,7 @@
 .movieUp {
     margin: 0 0 30px;
     padding: 22px;
-    border: 1px solid #e5e7eb;
+    border: 1px solid #d9dbde;
     border-radius: 12px;
 }
 
@@ -45,7 +45,7 @@
     padding: 0 8px;
     font-size: 16px;
     font-weight: 600;
-    color: #333333;
+    color: #000000;
 }
 
 .formRow {
@@ -60,7 +60,7 @@
     height: 42px;
     padding: 0 14px;
     box-sizing: border-box;
-    border: 2px solid #e1e1e1;
+    border: 2px solid #dedada;
     border-radius: 8px;
     outline: none;
     font-size: 14px;
@@ -75,7 +75,7 @@
     padding: 0 10px;
     border: 2px solid #e1e1e1;
     border-radius: 8px;
-    background-color: white;
+    background-color: #dcdada;
     outline: none;
     cursor: pointer;
 }
@@ -88,7 +88,7 @@
     height: 42px;
     padding: 0 20px;
     background-color: #6366f1;
-    color: white;
+    color: #ece8e8;
     border: none;
     border-radius: 8px;
     font-weight: 600;
@@ -108,7 +108,7 @@
 .countBox h2 {
     margin: 0;
     font-size: 18px;
-    color: #333333;
+    color: #383737;
 }
 
 .countBox span {
@@ -144,7 +144,7 @@
 .movieTitle {
     margin: 0 0 15px;
     font-size: 20px;
-    color: #000000;
+    color: #2c2b2b;
 }
 
 /* 장르 */
@@ -193,14 +193,14 @@
     padding: 6px 12px;
     border: 1px solid #d1d5db;
     border-radius: 6px;
-    background-color: white;
+    background-color: #e7e2e2;
     color: #555555;
     cursor: pointer;
 }
 
 .deleteButton:hover {
     background-color: #ef4444;
-    color: white;
+    color: #e1d9d9;
     border-color: #ef4444;
 }
 
