@@ -146,8 +146,8 @@ function App() {
 
                             {/* 별점 */}
                             <p className={styles.rating}>
-                                {"★".repeat(movie.rating)}
-                                {"☆".repeat(5 - movie.rating)}
+                                {"❤️".repeat(movie.rating)}
+                                {"🤍".repeat(5 - movie.rating)}
                             </p>
 
                             {/* 감상 완료 + 삭제 */}
